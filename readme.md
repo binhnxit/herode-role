@@ -1,7 +1,9 @@
 # Herode Roles and Permissions (Laravel) 
 
 ## Install
-If you want to use other project, You can:
+Have two options to install, you can choose one of them
+
+### 1. If you want to use and modify this package, You can:
 
 - Copy this folder `heroderole` to `modules/heroderole` into your root project
 
@@ -23,6 +25,9 @@ If you want to use other project, You can:
     //...
 }
 ```
+
+### 2. Or you can install via composer
+`composer require herode/role`
 
 Next, run: `composer update`
 
